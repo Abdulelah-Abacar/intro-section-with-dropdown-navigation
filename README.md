@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-intro-section-with-dropdown-navigation-YHt22akj9l)
 - Live Site URL: [live site URL](https://abdulelah-abacar.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
